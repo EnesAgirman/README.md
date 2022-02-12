@@ -1,7 +1,8 @@
 # README.md
 
-I am trying to figure out how this works
+Hello, I am Enes Ağırman
+I love coding, making music and playing basketball
 
-*Java
-*C#
-*Phyton
+I am a electrical and electronics student at Bilkent University
+
+I am currently learning java in my CS-101 class
